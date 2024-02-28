@@ -1,0 +1,5 @@
+00-examiner le site existant
+01-recuperation des ressources
+02-trouver idees
+03-realisation cahier des charges
+04-conception du modéle de base de donnée
